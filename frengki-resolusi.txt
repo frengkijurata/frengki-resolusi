@@ -3,4 +3,4 @@ FRENGKI RESOLUSI
 - Membuat beberapa project pemrograman
 - Membuat channel Youtube untuk belajar dan membantu orang lain dalam belajar pemrograman
 - Membuat web bagus
-- Belajar lebih giat
+- Membuat project tutorial
